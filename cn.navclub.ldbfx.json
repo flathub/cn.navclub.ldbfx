@@ -53,7 +53,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/databasefx/ldbfx.git",
-                    "commit": "f5fad78ff922548dd701af77f0ec52dfb671fc3d"
+                    "commit": "15d26c9219e733c02caba18e5e18131e2750cb7d"
                 }
             ]
         }
