@@ -12,7 +12,7 @@
         "--socket=wayland",
         "--filesystem=home"
     ],
-    "publish-delay-hours": 0.5,
+    "publish-delay-hours": 1,
     "modules": [
         {
             "name": "mariadb",
